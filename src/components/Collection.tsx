@@ -83,7 +83,7 @@ export default function Collection() {
         },
         {
           id: 3,
-          image: 'https://images.pexels.com/photos/1055691/pexels-photo-1055691.jpeg?auto=compress&cs=tinysrgb&w=500',
+          image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrI1yre_ErKM7ycqfoX02Lb61unwWTq2asjQ&s',
           name: 'Geometric Pattern',
         },
       ],
